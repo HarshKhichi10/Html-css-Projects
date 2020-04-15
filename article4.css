@@ -1,0 +1,52 @@
+p.line5{
+font-size:95%;
+font-weight:bold;
+padding:6px;
+font-family: Arial,Verdana ,sans-serif;
+}
+article.article3{
+	width:725px;
+}
+
+article h4.line3{
+   
+   font-size:110%;
+   font-family: Arial,Verdana ,sans-serif;
+   color:Darkblack;
+   font-weight:bold;
+   
+   }
+   
+.tabone{
+  text-align:left;
+  border-bottom: 1px solid lightgrey;
+  font-family: Arial,Verdana ,sans-serif;
+  font-size:110%;
+  font-weight:bold;
+  padding:7px;
+  }  
+.tabone1{
+  color:#4286b4;
+  border-bottom: 1px solid lightgrey;
+  font-family: Arial,Verdana ,sans-serif;
+  font-weight:bold;
+   padding:7px;
+  font-size:110%;
+ 
+   } 
+ .tabtwo{
+	 text-align:center;
+   border-bottom: 1px solid lightgrey;   
+   font-family: Arial,Verdana ,sans-serif;
+  font-size:100%;
+  font-weight:bold;
+    padding:7px;
+ }
+.tabtwo1{
+  text-align;center;
+   border-bottom: 3px solid lightgrey; 
+   font-family: Arial,Verdana ,sans-serif;
+  font-size:100%;
+  font-weight:bold;
+   padding:7px;
+  }  

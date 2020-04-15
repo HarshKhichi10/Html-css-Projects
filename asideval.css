@@ -1,0 +1,60 @@
+.aone{
+	color:#4286b4;
+	text-align:left;
+    font-size:100%;
+    padding:10px;
+	font-family: Arial,Verdana, Sans-serif;
+	font-weight:bold;
+	}
+.btwo{
+	 font-size:135%;
+	 font-weight:bold;
+      font-family: Arial,Verdana, Sans-serif;
+      padding:10px;
+     color:black;	  
+	  font-weight:bold;
+	  text-align:center;
+	}
+.cthree{
+  color:red;
+  text-align:center;
+font-family: Arial,Verdana, Sans-serif; 
+  font-size:100%;
+   padding:10px;
+  font-weight:bold;
+  
+  }
+.dfour{
+  color: black;
+  text-align:center;
+ font-family: Arial,Verdana, Sans-serif;
+  font-size:100%;
+    padding:10px;
+	font-weight:bold;
+}
+.gsix	{
+	 color:green;
+	 text-align:center;
+font-family: Arial,Verdana, Sans-serif; 
+  font-size:100%;
+   padding:10px;
+  font-weight:bold;
+}    
+table tr.fone{
+	background-color:#edf3f8;
+    
+	}
+ table tr.ftwo{
+	background-color:#ffffff;
+    
+	}	
+b.word1{
+     color: grey;
+     float:right;
+}	
+b.word2{
+   color:black;
+   
+   font-family: Arial,Verdana, Sans-serif;
+   font-size:110%;
+}   

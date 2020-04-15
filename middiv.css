@@ -1,0 +1,42 @@
+
+div h1.mid
+{
+	color:black;
+	text-align:left;
+    border-bottom: 5px solid; 
+	border-bottom-color: lightgrey;
+	margin-bottom:.5%;
+    font-family: Arial,Verdana ,sans-serif; 
+     font-size:38px;	
+	 }
+	
+ul li{
+    
+ 
+	display:inline;
+    margin-left:0%;
+	padding:2px;
+		}	 
+ul {
+margin-top:0px;
+margin-left:-3%;
+}
+ul li.first{
+	color: grey;
+	margin-left:0px;
+    float:left;
+	clear:left;
+	
+}
+
+li.second:hover{
+	background-color:#efefef;
+	color:#ff8000;
+}
+ul li.second{
+	padding :10px;
+ 	color:#4286b4;
+  
+  }
+
+  	
