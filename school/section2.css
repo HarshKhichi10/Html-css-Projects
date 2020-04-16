@@ -1,0 +1,47 @@
+	
+.four1{
+    margin-top:-2%;   
+    width:695px; 
+    float:right;	
+   	margin-right:4%;
+	}
+.four2{
+	width:250px;
+	float:left;
+}
+.four3{
+  
+  height:330px;
+  width:695px;
+  
+}
+.four4{
+	padding:11px;
+	border-bottom: 2px solid lightgrey;
+    
+	font-family:Arial, verdana snas-serif;
+	color:grey;
+	font-size:15px;
+	
+}	  
+.four4:hover
+ {
+	 background-color:#efefef;
+	 color:#ff8000;
+ }
+      
+	
+.five1{
+  margin-top:18%;
+  padding:15px;
+  width:250px;
+  } 
+.five2{
+	  color:#4286b4;
+      margin-left:20%;
+}
+
+.five3{
+	  margin-top:80%;
+	  }
+	  

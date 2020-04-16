@@ -1,0 +1,164 @@
+.one{
+  height:15px;
+   width:100%;
+  }
+.one1{
+   width:100%;
+   color:#4286b4;
+   margin-left:-4.5%;
+   margin-top:-.3%;   
+   float:left;
+   text-transform:uppercase; 
+   font-size:12.5px; 
+   font-weight:bold;
+   font-family:Arial,Verdana,sans-serif;
+ 
+ }
+
+ .one3:hover{
+	  background-color:#efefef; 
+     
+ }
+ .one2:hover{
+	  background-color: #efefef;
+	  color:;
+ }
+ul li{
+	display:inline;
+     padding:3px;
+   
+	 }
+ ul li.one2{
+	 margin-left:15%;
+ }
+ .two{
+	 height:150px;
+	 background-color:#edf3f8;
+     margin-top:.5%;
+     margin-left:-.5%; 
+ }
+ .two1{
+	 width:21%;
+	 float:left;
+     margin-top:3%;
+     margin-left: -26%;
+	
+	 
+ }	  
+	
+ .two2{
+      letter-spacing:.1cm;	 
+	  padding:4px;
+	 border-bottom: 1px solid grey;
+     font-size:26px;
+	 text-decoration:blink;
+	 font-weight:normal;
+     color:#4286b4;
+      margin-bottom: -1%;  
+	}
+  .two3{
+     margin-top:0%;
+     color:#4286b4;
+	 font-family:Arial,Verdana,sans-serif;	
+     padding:6px;
+	 font-size:15px;
+	 letter-spacing:.03cm;
+   }	 
+  .two4{
+      float:left;
+      width:30%;
+	  margin-left:3%;
+	  margin-top:4%;
+  }	  
+  .two5{
+    float:right;
+	  margin-right:4%;
+    margin-top:7%; 
+  	height:35px;
+    border: 1px solid lightgrey;
+    background-image: url("searchsign2.png");
+	  background-position:right;
+ 	  background-repeat: no-repeat;
+    padding:8px;
+   }
+  
+   .colomn1,.colomn2,.colomn3{
+         float : left;
+         margin: 1%;
+         width : 31.3%;	
+   }
+  
+   
+   .colomn1{
+      clear:left;
+   }
+   .colomn3{
+     margin-right: 0%;
+    }
+  
+  .imgtwo{
+   width: 100%;
+   height:100%;
+  }
+  .imgtwo:hover{
+    background-color:black;
+  }
+   .article{
+    height: 10cm;
+    margin-bottom: 1cm;
+    background-color:rgb(69,68,71);
+  
+  
+  }
+.firstcol{
+  font-weight: lighter;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  color:#efefef;
+  text-shadow: black;
+  text-transform: capitalize; 
+  text-align: center;
+  padding:  7px;
+}  
+.firstcol1{
+  
+  text-align:center;
+  font-weight: lighter;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  color:#efefef;
+  padding: 1px;
+  justify-content: center;
+  
+}
+.btn-primary{
+ 
+  background-color: rgba(100,140,20);
+  
+  font-size:2px; 
+  color:#fff;
+  border:0;
+  border-radius: 10px;
+}
+.btn-primary:hover{
+background-color:#edf3f8; 
+color: coral;
+border: 0;
+
+}
+.
+.fot{
+  margin-block:10px;
+
+}
+.footer{
+   color:#fff;
+   font-size: x-large;
+   font-weight: bolder;
+   font-family: 'Courier New', Courier, monospace;
+   text-align:center;
+   width: 1500px;
+   height: 300px;
+  background-color: navy;  
+  margin-top: 820px;
+}
